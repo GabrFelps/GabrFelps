@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrfelps&theme=tokyonight" alt="gabrfelps" width="405" />
     <img src="https://github-readme-stats.vercel.app/api?username=gabrfelps&show_icons=true&locale=en&theme=tokyonight" alt="gabrfelps" width="380" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrfelps&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabrfelps" width="250" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrfelps&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabrfelps" width="300" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
