@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Felipe Marques</h1>
 <h3 align="center">A passionate software developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrfelps&label=Profile%20views&color=0e75b6&style=flat" alt="gabrfelps" /> </p>
-
 - 🌱 I’m currently learning **Python, Javascript and C++**
 
 - 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/felipe-gabriel-freitas-marques-8370912b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe gabriel freitas marques" height="15" width="30" /></a>
