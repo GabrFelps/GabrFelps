@@ -3,11 +3,7 @@
 <h3 align="center">A passionate software developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Python, Javascript**
-
-- 👨‍💻 All of my projects are available here
-
-- ⚡ Fun fact **I am a musician**
+>  🌱 I’m currently **studying higher education in systems analysis and development at Federal Institute of Piauí (IFPI).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
