@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi, I'm Felipe Marques</h1>
-<h3 align="center">A passionate software developer from Brazil</h3>
 
 
 >  🌱 I’m currently **studying higher education in systems analysis and development at Federal Institute of Piauí (IFPI).**
