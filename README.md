@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Felipe Marques</h1>
 
--🌱 I’m currently **studying higher education in Systems Analysis and Development at Federal Institute of Piauí (IFPI).**
+🌱 I’m currently **studying higher education in Systems Analysis and Development at Federal Institute of Piauí (IFPI).**
 
 <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrfelps&theme=tokyonight" alt="gabrfelps" width="405" />
@@ -20,5 +20,5 @@
 </p>
 
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="300">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="792" height="300">
 </p>
