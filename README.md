@@ -3,7 +3,7 @@
 -🌱 I’m currently **studying higher education in Systems Analysis and Development at Federal Institute of Piauí (IFPI).**
 
 <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrfelps&theme=tokyonight" alt="gabrfelps" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrfelps&theme=tokyonight" alt="gabrfelps" width="405" />
     <img src="https://github-readme-stats.vercel.app/api?username=gabrfelps&show_icons=true&locale=en&theme=tokyonight" alt="gabrfelps" width="380" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrfelps&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabrfelps" width="250" />
 </div>
@@ -20,5 +20,5 @@
 </p>
 
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem" width="800" height="400">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem" width="420" height="250">
 </p>
