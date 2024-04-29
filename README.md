@@ -2,6 +2,7 @@
 <h1 align="center">Hi, I'm Felipe Marques</h1>
 <h3 align="center">A passionate software developer from Brazil</h3>
 
+
 - 🌱 I’m currently learning **Python, Javascript and C++**
 
 - 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/felipe-gabriel-freitas-marques-8370912b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe gabriel freitas marques" height="15" width="30" /></a>
@@ -21,10 +22,8 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrfelps&theme=tokyonight" alt="gabrfelps" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrfelps&show_icons=true&locale=en&theme=tokyonight" alt="gabrfelps" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrfelps&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabrfelps" /></p>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<p align="center">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
