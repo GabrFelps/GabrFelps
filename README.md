@@ -14,8 +14,9 @@
 
 <h3 align="left">| ‍💻 | Languages and Tools:</h3>
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/2933501512659eff1e0738604a356aaeba3286eaf504480921d2392dd2f11c06/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f6a6176617363726970742e706e67" alt="javascript" width="45" height="45"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/ed73fa95ab181827fb5834128eeecc01a8331a06d1d57b7168f64122827cdd27/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f707974686f6e2e706e67" width="45" height="45"/></a>
+    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f2e105fabd4ca11dcc8f899c70c8877f7e6b4bc44e5c9068a41596af2315d591/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f676f646f742e706e67" width="45" height="45"/></a>
 </p>
 
 <h3 align="left">| 📱 | Connect with me:</h3>
