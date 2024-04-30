@@ -2,13 +2,15 @@
 
 <p align="left">🌱 I’m currently studying higher education in Systems Analysis and Development at Federal Institute of Piauí (IFPI). </p>
 
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrfelps&theme=radical" alt="gabrfelps" width="401" />
     <img src="https://github-readme-stats.vercel.app/api?username=gabrfelps&show_icons=true&locale=en&theme=radical" alt="gabrfelps" width="380" />
-    <div style="position:relative;right:10000px;"> <!-- Adicionado estilo para centralizar apenas o terceiro elemento -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrfelps&show_icons=true&locale=en&layout=compact&theme=radical" alt="gabrfelps" width="300"/>
-    </div>
 </div>
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrfelps&show_icons=true&locale=en&layout=compact&theme=radical" style="position: relative;left: 100px;" alt="gabrfelps" width="300">
+</p>
 
 <h3 align="left">| ‍💻 | Languages and Tools:</h3>
 <p align="left">
