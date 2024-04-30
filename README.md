@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Felipe Marques</h1>
+<h1 align="left">Hi, I'm Felipe Marques</h1>
 
-<p align="center">> 🌱 I’m currently studying higher education in Systems Analysis and Development at Federal Institute of Piauí (IFPI). </p>
+<p align="left">🌱 I’m currently studying higher education in Systems Analysis and Development at Federal Institute of Piauí (IFPI). </p>
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrfelps&theme=tokyonight" alt="gabrfelps" width="401" />
     <img src="https://github-readme-stats.vercel.app/api?username=gabrfelps&show_icons=true&locale=en&theme=tokyonight" alt="gabrfelps" width="380" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrfelps&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabrfelps" width="300" />
