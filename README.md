@@ -14,16 +14,16 @@
 
 <h3 align="left">| ‍💻 | Languages and Tools:</h3>
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/2933501512659eff1e0738604a356aaeba3286eaf504480921d2392dd2f11c06/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f6a6176617363726970742e706e67" alt="javascript" width="45" height="45"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/ed73fa95ab181827fb5834128eeecc01a8331a06d1d57b7168f64122827cdd27/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f707974686f6e2e706e67" width="45" height="45"/></a>
-    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f2e105fabd4ca11dcc8f899c70c8877f7e6b4bc44e5c9068a41596af2315d591/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f676f646f742e706e67" width="45" height="45"/></a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="45" height="45"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" width="45" height="45"/></a>
+    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" width="45" height="45"/></a>
 </p>
 
 <h3 align="left">| 📱 | Connect with me:</h3>
 <div align="left" dir="auto">
-  <a href="https://www.instagram.com/gabrfelps" rel="nofollow"><img src="https://camo.githubusercontent.com/5fe8416cd5ba128163da401b036070cff85f0004eda8aa86575aaa1e93b1b5af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
+  <a href="https://www.instagram.com/gabrfelps" rel="nofollow"><img src="https://camo.githubusercontent.com/9dc21232c4909e83f2831b1209c96ac69276c50f166a389a282672c5520681b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d6666303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
   <a href="mailto:felipemrqs07@gmail.com"><img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-  <a href="https://www.linkedin.com/in/felipe-gabriel-freitas-marques-8370912b1/" rel="nofollow"><img src="https://camo.githubusercontent.com/1fb28218088b45b065a7445cafa9d5f027a657f17cb4f8b3a9472b1f59952949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
+  <a href="https://www.linkedin.com/in/felipe-gabriel-freitas-marques-8370912b1/" rel="nofollow"><img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
 </div>
 
 <br>
