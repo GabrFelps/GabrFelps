@@ -4,13 +4,9 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrfelps&theme=radical" alt="gabrfelps" width="401" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrfelps&show_icons=true&locale=en&layout=compact&theme=radical" style="position: relative;left: 100px;" alt="gabrfelps" width="290">
     <img src="https://github-readme-stats.vercel.app/api?username=gabrfelps&show_icons=true&locale=en&theme=radical" alt="gabrfelps" width="380" />
 </div>
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrfelps&show_icons=true&locale=en&layout=compact&theme=radical" style="position: relative;left: 100px;" alt="gabrfelps" width="300">
-</p>
 
 <h3 align="left">| ‍💻 | Languages and Tools:</h3>
 <p align="left">
