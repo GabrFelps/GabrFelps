@@ -14,8 +14,8 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f49f96180583a503365d6987c00ae5fc0db6aa002e275684a71740a891802adc/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f707974686f6e2e706e67" width="45" height="45"/></a>
     <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/024f4ee030f1bf7349484356fa614cbf2a38366c70dfc5b14f50db3e8b6934b4/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f676f646f742e706e67" width="45" height="45"/></a>
     <a href="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" width="45" height="45"/></a>
-    <a href="https://devdocs.io/c/" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="45" height="45"/></a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="45" height="45"/></a>
+    <a href="https://devdocs.io/c/" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/c-programming.png" width="45" height="45"/></a>
+    <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=GOHWqwnSE8Sv&format=png&color=000000" width="45" height="45"/></a>
     
 </p>
 
