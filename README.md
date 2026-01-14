@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Felipe Marques <img src="https://private-user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0OTc3NTUsIm5iZiI6MTcxNDQ5NzQ1NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzktZTM3OWEzM2EtYjQyOC00Mzg1LWI0NGYtM2RhMTZlN2JhYzlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDMwVDE3MTczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlMWRhMDNjMmM3ODEwM2Q3MTZhZWJkMGZhMzg3YTlhNDk3YjE4ZTI1YzVjM2QyZWVlZWI3YjFmOGVhNTkwOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BFKQNhKHkjBYIi26Hrxpipsh-hdlqcCVDCatMU0qG7U" alt="welcome" width="40" height="40"/></h1>
+<h1 align="left">Hi, I'm Felipe Marques <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="welcome" width="40" height="40"/></h1>
 
 <p align="left">🌱 I’m currently studying higher education in Systems Analysis and Development at Federal Institute of Piauí (IFPI). </p>
 
@@ -10,9 +10,9 @@
 
 <h3 align="left">| ‍💻 | Languages and Tools:</h3>
 <p align="left">
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/bbb157be7fc97b3708c78ae1bf4e0f24175b319fd5ccf9d514500fe0d3b9f89a/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f6a6176617363726970742e706e67" alt="javascript" width="45" height="45"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f49f96180583a503365d6987c00ae5fc0db6aa002e275684a71740a891802adc/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f707974686f6e2e706e67" width="45" height="45"/></a>
-    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/024f4ee030f1bf7349484356fa614cbf2a38366c70dfc5b14f50db3e8b6934b4/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f676f646f742e706e67" width="45" height="45"/></a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" alt="javascript" width="45" height="45"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" width="45" height="45"/></a>
+    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UGrLCnKJf6Px&format=png&color=000000" width="45" height="45"/</a>
     <a href="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" width="45" height="45"/></a>
     <a href="https://devdocs.io/c/" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/c-programming.png" width="45" height="45"/></a>
     <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=GOHWqwnSE8Sv&format=png&color=000000" width="45" height="45"/></a>
