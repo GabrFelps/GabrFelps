@@ -10,9 +10,10 @@
 
 <h3 align="left">| ‍💻 | Languages and Tools:</h3>
 <p align="left">
-    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" alt="javascript" width="45" height="45"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" width="45" height="45"/></a>
-    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UGrLCnKJf6Px&format=png&color=000000" width="45" height="45"/</a>
+    <a href="https://docs.djangoproject.com/en/6.0/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=qc3TyHJPxEoH&format=png&color=000000" width="45" height="45"/</a>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" alt="javascript" width="45" height="45"/></a>
+    <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" alt="javascript" width="45" height="45"/></a>
     <a href="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" width="45" height="45"/></a>
     <a href="https://devdocs.io/c/" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/c-programming.png" width="45" height="45"/></a>
     <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=GOHWqwnSE8Sv&format=png&color=000000" width="45" height="45"/></a>
