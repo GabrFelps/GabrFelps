@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Felipe Marques <img src="" alt="welcome" width="40" height="40"/></h1>
+<h1 align="left">Hi, I'm Felipe Marques <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="welcome" width="40" height="40"/></h1>
 
 <p align="left">🌱 I’m currently studying higher education in Systems Analysis and Development at Federal Institute of Piauí (IFPI). </p>
 
